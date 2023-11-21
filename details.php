@@ -46,6 +46,7 @@
                         <h5>longitude : <?= $row['longitude'] ?></h5>
 
                     </div>
+                <div> <a href="index.php" class="btn btn-primary">กลับหน้าหลัก</a> </div>
                 </div>
             </div>
         </div>
