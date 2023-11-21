@@ -17,7 +17,7 @@
                         <h1>Error</h1>
                     </div>
                     <div class="card-body">
-                        <p>ไม่พบข้อมูลsss</p>
+                        <p>ไม่พบข้อมูลs</p>
                         <a href="index.php" class="btn btn-primary">กลับหน้าหลัก</a>
                     </div>
                 </div>
