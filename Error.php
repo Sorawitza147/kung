@@ -14,7 +14,7 @@
             <div class="col-5 mx-auto">
                 <div class="card shadow text-center">
                     <div class="card-header">
-                        <h1>Error</h1>
+                        <h1>Error 404</h1>
                     </div>
                     <div class="card-body">
                         <p>ไม่พบข้อมูล</p>

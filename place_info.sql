@@ -11,11 +11,7 @@ CREATE TABLE `place_info` (
   `longitude` text NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
 
-!
-ดูเหมือนว่าคำสั่ง SQL ของคุณมีข้อผิดพลาดบางประการ คำสั่ง SQL ที่ถูกต้องควรเป็นแบบนี้:
 
-sql
-Copy code
 INSERT INTO `place_info` (`id`, `nameplace`, `detail`, `latitude`, `longitude`) VALUES
 (1, 'Afghanistan', 'Afghanistan is located in Central Asia with a diverse population that uses Pashto and Dari as official languages. Kabul is the capital city, renowned for its long history. The country faces complex historical challenges, including ethnic diversity, conflicts, and economic issues, while striving for modern development.','33.78863967660112','64.49491267714045'),
 (2, 'Armenia','Armenia is situated in the region known as the Caucasus, sharing borders with Georgia, Azerbaijan, and Iran. The capital is Yerevan.', '41.709', '44.792'),
